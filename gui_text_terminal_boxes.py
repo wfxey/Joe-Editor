@@ -1,0 +1,113 @@
+import tkinter as tk
+from tkinter import (filedialog, messagebox, simpledialog)
+import subprocess
+
+root = tk.Tk()
+root.title("Python Editor v1.0")
+root.geometry("+250+340")                   # location of app on screen
+root.iconbitmap("python_icon.ico")
+
+# FUNCTIONS
+
+def open_file():
+    pass
+
+def save_file():
+    pass
+
+
+# EDIT BUTTONS
+
+def cut_text():
+    pass
+             
+
+def copy_text():
+    pass
+
+
+def paste_text():
+    pass
+
+def clear_text():
+    pass
+
+def about():
+    about_text = "This is About section"
+    messagebox.showinfo("About", about_text)
+
+def help():
+    help_text = "This is a Help section"
+    messagebox.showinfo("Help", help_text)
+    
+
+# RUN CODE FUNCTIONS
+
+
+# NAVBAR
+
+navbar = tk.Frame(root)
+navbar.pack(fill = tk.X)
+
+# DROPDOWN MENU
+
+menu = tk.Menu(navbar)
+
+# BUTTONS BELOW
+
+
+# FILES Menu
+file_menu = tk.Menu(menu, tearoff = False)
+file_menu.add_command(label="Open", command = open_file)
+file_menu.add_command(label="Save", command = save_file)
+file_menu.add_separator()
+file_menu.add_command(label="Exit", command = root.quit)
+menu.add_cascade(label="File", menu = file_menu)
+
+# EDIT Menu
+
+edit_menu = tk.Menu(menu, tearoff=False)
+edit_menu.add_command(label="Cut", command = cut_text)
+edit_menu.add_command(label="Copy", command = copy_text)
+edit_menu.add_command(label="Paste", command = paste_text)
+edit_menu.add_command(label="Clear", command = clear_text)
+
+menu.add_cascade(label="Edit", menu = edit_menu)
+
+# ABOUT Menu
+
+about_menu = tk.Menu(menu, tearoff=False)
+about_menu.add_command(label="About", command = about)
+menu.add_cascade(label="About", menu = about_menu)
+
+# HELP Menu
+
+help_menu = tk.Menu(menu, tearoff=False)
+help_menu.add_command(label="Help", command = help)
+menu.add_cascade(label="Help", menu = help_menu)
+
+#1 RUN
+
+
+# TEXT AREA CODE
+
+text_frame = tk.Frame(root)
+text_frame.pack(side = tk.LEFT, fill=tk.BOTH, expand = True)
+
+code_text = tk.Text(text_frame)
+code_text.pack(side = tk.LEFT, fill=tk.BOTH, expand = True)
+
+# CODE SCROLL BAR
+
+
+# TEXT AREA TERMINAL
+terminal_frame = tk.Frame(root)
+terminal_frame.pack(side = tk.RIGHT, fill=tk.BOTH, expand = True)
+
+terminal_text = tk.Text(terminal_frame, bg="black", fg="white")
+terminal_text.pack(side = tk.RIGHT, fill=tk.BOTH, expand = True)
+
+# TERMINAL SCROLL BAR
+
+root.config(menu = menu)
+root.mainloop()
