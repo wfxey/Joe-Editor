@@ -13,10 +13,10 @@
 
 ***
 
-<img loading="lazy" src="joe-py-editor.png" height=50% width=50% />
+<img loading="lazy" src="IMAGES/joe-py-editor.png" height=50% width=50% />
 
 ***
 
-<img loading="lazy" src="joe-py-editor2.png" height=50% width=50% />
+<img loading="lazy" src="IMAGES/joe-py-editor2.png" height=50% width=50% />
 
 ***
