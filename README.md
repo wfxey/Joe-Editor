@@ -5,10 +5,10 @@
 ## Simple Python Editor <br>
 1) a python editting app: write code, run code, open and save files, find and replace text, clear screen, etc.<br><br>
 2) the files in the STEPS/ directory are a series of adding functionality, culminating in gui.py<br><br>
-3) the files were added to an .exe using auto-py-to-exe   found in /PACKAGE_GUI/output  -- gui.exe<br>
+3) the files were added to an .exe using auto-py-to-exe,found in /PACKAGE_GUI/output/gui.exe<br>
    --for some reason auto-py-to-exe doesn't want to package the icon file, which is also in that dir<br>
-   --without the icon file it errors out... what a pita<br>
-   --but.. even if python isn't installed locally, the app will still run, on windows, which is pretty cool<br>
+   --without the icon file it errors out, the icon can be removed and the package re-generated, however as it stands the file is requried<br>
+   --If python isn't installed locally, the app will still run on windows, which is pretty cool<br>
 
 
 
