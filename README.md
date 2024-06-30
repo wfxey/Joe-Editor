@@ -8,7 +8,7 @@
 3) the files were added to an .exe using auto-py-to-exe,found in /PACKAGE_GUI/output/gui.exe<br>
    --for some reason auto-py-to-exe doesn't want to package the icon file, which is also in that dir<br>
    --without the icon file it errors out, the icon can be removed and the package re-generated, however as it stands the file is requried<br>
-   --If python isn't installed locally, the app will still run on windows, which is pretty cool<br>
+
 
 
 
