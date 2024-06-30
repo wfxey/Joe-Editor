@@ -1,23 +1,13 @@
-# PYTHON-Editor
+<div align="center">
+# Joe-Editor
 
-***
+[![GitHub release](https://img.shields.io/github/release/jdoherty78/PYTHON-Editor?include_prereleases=&sort=semver&color=blue)](https://github.com/jdoherty78/PYTHON-Editor/releases/)
+[![issues - Joe-Editor](https://img.shields.io/github/issues/jdoherty78/PYTHON-Editor)](https://github.com/jdoherty78/PYTHON-Editor/issues)
 
-## Simple Python Editor <br>
-1) a python editting app: write code, run code, open and save files, find and replace text, clear screen, etc.<br><br>
-2) the files in the STEPS/ directory are a series of adding functionality, culminating in gui.py<br><br>
-3) the files were added to an .exe using auto-py-to-exe,found in /PACKAGE_GUI/output/gui.exe<br>
-   --for some reason auto-py-to-exe doesn't want to package the icon file, which is also in that dir<br>
-   --without the icon file it errors out, the icon can be removed and the package re-generated, however as it stands the file is requried<br>
+</div>
 
+## Description
 
+![Joe-Editor stuff](https://github.com/wfxey/Joe-Editor/assets/158351052/cc135dcd-8109-417f-8f9d-409b9d4b9089)
 
-
-***
-
-<img loading="lazy" src="IMAGES/joe-py-editor.png" height=50% width=50% />
-
-***
-
-<img loading="lazy" src="IMAGES/joe-py-editor2.png" height=50% width=50% />
-
-***
+*My edited fork footage.*
