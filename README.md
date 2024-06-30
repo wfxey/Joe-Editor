@@ -1,4 +1,5 @@
 <div align="center">
+  
 # Joe-Editor
 
 [![GitHub release](https://img.shields.io/github/release/jdoherty78/PYTHON-Editor?include_prereleases=&sort=semver&color=blue)](https://github.com/jdoherty78/PYTHON-Editor/releases/)
@@ -11,3 +12,5 @@
 ![Kopie von Design ohne Titel](https://github.com/wfxey/Joe-Editor/assets/158351052/304771e9-82e8-43df-9c39-da4b7c31c9a6)
 
 *My edited fork footage.*
+
+</div>
