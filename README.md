@@ -6,7 +6,7 @@
 
 </div>
 
-## Descriptior
+## Description
 
 ![Kopie von Design ohne Titel](https://github.com/wfxey/Joe-Editor/assets/158351052/304771e9-82e8-43df-9c39-da4b7c31c9a6)
 
