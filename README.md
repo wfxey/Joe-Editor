@@ -6,8 +6,8 @@
 
 </div>
 
-## Description
+## Descriptior
 
-![Joe-Editor stuff](https://github.com/wfxey/Joe-Editor/assets/158351052/cc135dcd-8109-417f-8f9d-409b9d4b9089)
+![Kopie von Design ohne Titel](https://github.com/wfxey/Joe-Editor/assets/158351052/304771e9-82e8-43df-9c39-da4b7c31c9a6)
 
 *My edited fork footage.*
