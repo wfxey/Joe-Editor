@@ -1,6 +1,7 @@
 <div align="center">
   
 # Joe-Editor
+*Forked from @jdoherty78*
 
 [![GitHub release](https://img.shields.io/github/release/jdoherty78/PYTHON-Editor?include_prereleases=&sort=semver&color=blue)](https://github.com/jdoherty78/PYTHON-Editor/releases/)
 [![issues - Joe-Editor](https://img.shields.io/github/issues/jdoherty78/PYTHON-Editor)](https://github.com/jdoherty78/PYTHON-Editor/issues)
