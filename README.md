@@ -8,6 +8,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/jdoherty78/PYTHON-Editor?include_prereleases=&sort=semver&color=blue)](https://github.com/jdoherty78/PYTHON-Editor/releases/)
 [![issues - Joe-Editor](https://img.shields.io/github/issues/jdoherty78/PYTHON-Editor)](https://github.com/jdoherty78/PYTHON-Editor/issues)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)
 
